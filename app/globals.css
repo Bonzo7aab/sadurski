@@ -15,12 +15,3 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
-
-/* html {
-  scroll-snap-type: y mandatory;
-} */
-
-body {
-  color: #FFFFFF;
-  background-color: #2E2E2F;
-}
